@@ -13,7 +13,7 @@ commuting data from the UK Office for National Statistics (ONS).
 
 ## File Structure
 
-Modeling_SIR_travel/
+Modeling-the-Spread-of-Respiratory-Syncytial-Virus-RSV-Using-a-Multi-City-SIR-Framework/
 ├── main.py                         # Main simulation script
 ├── ODWP01EW_LTLA.csv               # Commuting data (ONS)
 ├── mye24tablesuk.xlsx              # Population data (ONS)
