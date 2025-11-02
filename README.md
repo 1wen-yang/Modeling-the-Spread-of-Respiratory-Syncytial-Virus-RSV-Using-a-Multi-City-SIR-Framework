@@ -14,9 +14,9 @@ commuting data from the UK Office for National Statistics (ONS).
 ## File Structure
 
 Modeling_SIR_travel/
-├── main.py                       # Main simulation script
-├── ODWP01EW_LTLA.csv             # Commuting data (ONS)
-├── mye24tablesuk.xlsx            # Population data (ONS)
+├── main.py                         # Main simulation script
+├── ODWP01EW_LTLA.csv               # Commuting data (ONS)
+├── mye24tablesuk.xlsx              # Population data (ONS)
 ├── commuting_matrix_counts_core3.csv
 ├── commuting_matrix_ratio_core3.csv
-└── figs/                         # Folder for plots (generated after ring)
+└── figs/                           # Folder for generated plots
